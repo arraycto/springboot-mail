@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-boot-mail
+  mail:
+    host: smtp.qq.com
+    username: 2469751634
+    password: ojavlrpldpladijh
+    default-encoding: UTF-8
+    fromAddr: 2469751634@qq.com
+    nickName: 实名认证助手意见反馈邮件系统
